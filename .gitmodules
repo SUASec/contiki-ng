@@ -37,3 +37,6 @@
 [submodule "arch/cpu/nrf/lib/nrfx"]
 	path = arch/cpu/nrf/lib/nrfx
 	url = https://github.com/NordicSemiconductor/nrfx.git
+[submodule "examples/zolertia/tutorial"]
+	path = examples/zolertia/tutorial
+	url = git@github.com:SUASec/iot-workshop-contiki.git
